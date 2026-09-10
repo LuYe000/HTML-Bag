@@ -1,0 +1,6 @@
+{
+  "name": "达观AI智能体平台 - 租户与套餐管理系统",
+  "description": "达观AI智能体平台管理端，包含系统设置套餐管理、租户与账户管理、比对智能体应用与规则管理，支持套餐创建/编辑/启停与比对智能体模块权限分配。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
