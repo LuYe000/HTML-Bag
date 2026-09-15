@@ -1,0 +1,9 @@
+{
+  "name": "document-split-prototype",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node build/serve.mjs",
+    "build": "node build/build-self-contained.mjs"
+  }
+}
